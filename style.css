@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(239, 223, 204);
+}
+.img1{
+    display: block;
+    margin: auto;
+    
+}
+.vid{
+    display: block;
+    margin: auto; 
+}
+.img2{
+    display: block;
+    margin: auto;
+}
+.para{
+    display: block;
+    margin: auto;
+}
